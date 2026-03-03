@@ -1,0 +1,16 @@
+body {
+        width: 80%;
+        margin: auto;
+        background-color: #f5bcee;
+        padding: 20px;
+    }
+    ul {
+        background-color: #ac4fa7;
+        color: #fae0f8;
+        padding: 10px;
+    }
+    main-content {
+        width: 70%;
+        float: left;
+        padding: 10px;
+    }
